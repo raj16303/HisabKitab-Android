@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      OPTIONAL: apna Apps Script Web App URL yahan daalein (jo /exec par khatam hota hai).
+      Khaali chhodenge to app pehli baar khulne par URL poochega.
+      Example: https://script.google.com/macros/s/AKfycb.../exec
+    -->
+    <string name="server_url" translatable="false"></string>
+</resources>

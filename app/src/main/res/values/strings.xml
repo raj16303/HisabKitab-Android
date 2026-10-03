@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HisabKitab</string>
+    <string name="saved_to">Saved: Downloads/HisabKitab/%1$s</string>
+    <string name="save_failed">File save nahi ho payi</string>
+    <string name="no_app">Is link ko kholne ke liye koi app nahi mila</string>
+    <string name="share_title">Share / Save</string>
+</resources>
